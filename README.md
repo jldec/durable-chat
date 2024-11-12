@@ -1,4 +1,5 @@
-Durable Chats
+## from https://github.com/threepointone/durable-chat
+- with latest wrangler and assets binding
 
 ---
 
